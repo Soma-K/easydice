@@ -120,6 +120,7 @@ For example:
 _New in v1.3.1_
 
 `EasyDice` now has convenience initializers for regular polihedra:
+
 | | |
 |-|-|
 |`EasyDice.tetrahedron(c)`|Returns `c` tetrahedron shaped dice (4 sides)|
